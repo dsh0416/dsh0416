@@ -2,7 +2,11 @@
 
 👋 Hi! This is Delton.
 
-Feel Free to Contact Me through E-mail. My Languages Capabilities Are as Following.
+Feel Free to Contact Me through E-mail or Twitter.
+
+- [Blog](https://coderemixer.com)
+- [Twitter](https://twitter.com/DeltonDing)
+- [E-mail](mailto:dsh0416@gmail.com)
 
 Languages Capabilities:
 
