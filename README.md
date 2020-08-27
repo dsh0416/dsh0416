@@ -26,9 +26,11 @@ Languages Capabilities:
 - [Midori](https://github.com/midori-rb/midori.rb) A Ruby Web Framework with Non-Blocking I/O
 - [Evt](https://github.com/dsh0416/evt/tree/master) A Handcrafted Low-Level Event Handler designed as Ruby 3 Scheduler
 - [Fast SRT Subtitle](https://github.com/dsh0416/fast-srt-subtitle) Forked from [wiwikuan/fast-srt-subtitle](https://github.com/wiwikuan/fast-srt-subtitle). Subtitle Timeline Inputting Tool
+- [EUC-JP](https://github.com/dsh0416/euc-jp) EUC-JP and Shift_JIS Encoding and Decoding Library for Dart Language
 - [Rime Nihonchord](https://github.com/dsh0416/nihonchord) A Rime Recipe for Inputting Japanese (日本語) with Combo Input Method
 - [Rime Logic Symbols](https://github.com/dsh0416/rime-logic) A Rime Recipe for Inputting Logic Symbols
 - [Rime Bopomofo](https://github.com/dsh0416/rime-bopomofo-symbols) A Rime Recipe for Inputting Bopomofo Symbols (注音符號) and Hong-im Hû-hō (方音符號) for Chinese and Hokkienese
+- [UUID64](https://github.com/heckpsi-lab/uuid64) Generate Secured and Unique ID in a shorter pattern
 - [Petri DSL](https://github.com/dsh0416/petri-dsl) A Ruby DSL for Describing PetriNet
 - [SFS Moe](https://github.com/sfc-moe/sfs-moe) Firefox/Chrome Extension for Managing Assignments for Keio SFC Students
 
