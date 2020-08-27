@@ -32,7 +32,7 @@ Languages Capabilities:
 - [Petri DSL](https://github.com/dsh0416/petri-dsl) A Ruby DSL for Describing PetriNet
 - [SFS Moe](https://github.com/sfc-moe/sfs-moe) Firefox/Chrome Extension for Managing Assignments for Keio SFC Students
 
-## Books
+### Books
 
 - [Restart Ruby](https://github.com/dsh0416/ruby-relearning) A Work-in-Progress Ruby Tutorial (Chinese)
 
