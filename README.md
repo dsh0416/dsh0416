@@ -12,7 +12,7 @@ Languages Capabilities:
 
 | Name (in English) | Name (in Native) | Level |
 | ----------------- | ---------------- | ----- |
-| Chinese (Manderin) | 漢語（現代標準漢語） | Native |
+| Chinese (Mandarin) | 漢語（現代標準漢語） | Native |
 | Chinese (Shanghainese, Wuu) | 吳語（上海話） | Native |
 | English | English | Advanced |
 | Japanese | 日本語 | Elementary (N2) |
