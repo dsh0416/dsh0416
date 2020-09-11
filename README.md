@@ -44,6 +44,8 @@ Languages Capabilities:
 - [Homophone Jokes Generator](https://github.com/dsh0416/homophone-jokes-generator) Generate Homophone Jokes based on NLP techniques (Chinese)
 - [Petri Editor](https://github.com/dsh0416/petri-editor) A WYSIWYG PetriNet Editor
 
+![github stats](https://github-readme-stats.vercel.app/api?username=dsh0416&count_private=true&show_icons=true&theme=radical)
+
 <!--
 **dsh0416/dsh0416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
