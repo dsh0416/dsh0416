@@ -30,7 +30,7 @@ Languages Capabilities:
 - [Rime Nihonchord](https://github.com/dsh0416/nihonchord) A Rime Recipe for Inputting Japanese (日本語) with Combo Input Method
 - [Rime Logic Symbols](https://github.com/dsh0416/rime-logic) A Rime Recipe for Inputting Logic Symbols
 - [Rime Bopomofo](https://github.com/dsh0416/rime-bopomofo-symbols) A Rime Recipe for Inputting Bopomofo Symbols (注音符號) and Hong-im Hû-hō (方音符號) for Chinese and Hokkienese
-- [UUID64](https://github.com/heckpsi-lab/uuid64) Generate Secured and Unique ID in a shorter pattern
+- [UUID64](https://github.com/heckpsi-lab/uuid64) Generate Secured and Unique ID in a shorter pattern in Ruby
 - [Petri DSL](https://github.com/dsh0416/petri-dsl) A Ruby DSL for Describing PetriNet
 
 ### Archived Open Source Projects
