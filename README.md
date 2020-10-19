@@ -32,7 +32,10 @@ Languages Capabilities:
 - [Rime Bopomofo](https://github.com/dsh0416/rime-bopomofo-symbols) A Rime Recipe for Inputting Bopomofo Symbols (注音符號) and Hong-im Hû-hō (方音符號) for Chinese and Hokkienese
 - [UUID64](https://github.com/heckpsi-lab/uuid64) Generate Secured and Unique ID in a shorter pattern
 - [Petri DSL](https://github.com/dsh0416/petri-dsl) A Ruby DSL for Describing PetriNet
-- [SFS Moe](https://github.com/sfc-moe/sfs-moe) Firefox/Chrome Extension for Managing Assignments for Keio SFC Students
+
+### Archived Open Source Projects
+
+- [SFS Moe](https://github.com/sfc-moe/sfs-moe) Firefox/Chrome Extension for Managing Assignments for Keio SFC Students (The SFC-SFS system is no longer working in SFC. Requiescat in Pace.)
 
 ### Books
 
