@@ -17,7 +17,7 @@ Languages Capabilities:
 | English | English | Advanced |
 | Japanese | 日本語 | Elementary (N2) |
 | Chinese (Hokkienese) | 閩南語 | Elementary |
-| Ainu | Ainu | Beginner |
+| Aynu | Ainu | Beginner |
 | Vietnamese | Tiếng Việt | Beginner |
 | French | Français | Beginner |
 | Russian | Ру́сский | Beginner |
