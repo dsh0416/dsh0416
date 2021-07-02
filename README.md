@@ -22,6 +22,9 @@ Languages Capabilities:
 | French | Français | Beginner |
 | Russian | Ру́сский | Beginner |
 
+### Current Status
+![Busy](https://busy-moe.herokuapp.com/badges/1)
+
 ### Working/Maintaining Open Source Projects
 
 - [Midori](https://github.com/midori-rb/midori.rb) A Ruby Web Framework with Non-Blocking I/O
