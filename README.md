@@ -1,3 +1,6 @@
+<a href="https://github.com/dsh0416/busy"><img align="right" src="https://busy.moe/badges/1"/></a>
+
+
 ### Introduction
 
 👋 Hi! This is Delton (Pronounciation: /'dɛlt.n̩/).
@@ -21,9 +24,6 @@ Languages Capabilities:
 | Vietnamese | Tiếng Việt | Beginner |
 | French | Français | Beginner |
 | Russian | Ру́сский | Beginner |
-
-### Current Status
-![Busy](https://busy.moe/badges/1)
 
 ### Working/Maintaining Open Source Projects
 
