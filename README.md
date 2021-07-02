@@ -23,7 +23,7 @@ Languages Capabilities:
 | Russian | Ру́сский | Beginner |
 
 ### Current Status
-![Busy](https://busy-moe.herokuapp.com/badges/1)
+![Busy](https://busy.moe/badges/1)
 
 ### Working/Maintaining Open Source Projects
 
