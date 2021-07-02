@@ -1,4 +1,4 @@
-<a href="https://github.com/dsh0416/busy"><img align="right" src="https://busy.moe/badges/1"/></a>
+<a href="https://github.com/dsh0416/busy"><img align="right" src="https://busy.moe/badges/1?style=for-the-badge"/></a>
 
 
 ### Introduction
