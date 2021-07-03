@@ -1,6 +1,3 @@
-<a href="https://github.com/dsh0416/busy"><img align="right" src="https://busy.moe/badges/1?style=for-the-badge"/></a>
-
-
 ### Introduction
 
 👋 Hi! This is Delton (Pronounciation: /'dɛlt.n̩/).
@@ -10,6 +7,8 @@ Feel Free to Contact Me through E-mail or Twitter.
 - [Blog](https://coderemixer.com)
 - [Twitter](https://twitter.com/DeltonDing)
 - [E-mail](mailto:dsh0416@gmail.com)
+
+[![Busy Status](https://busy.moe/badges/1?style=for-the-badge)](https://github.com/dsh0416/busy)
 
 Languages Capabilities:
 
