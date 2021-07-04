@@ -27,7 +27,8 @@ Languages Capabilities:
 ### Working/Maintaining Open Source Projects
 
 - [Midori](https://github.com/midori-rb/midori.rb) A Ruby Web Framework with Non-Blocking I/O
-- [Evt](https://github.com/dsh0416/evt/tree/master) A Handcrafted Low-Level Event Handler designed as Ruby 3 Scheduler
+- [Evt](https://github.com/dsh0416/evt) A Handcrafted Low-Level Event Handler designed as Ruby 3 Scheduler
+- [Busy](https://github.com/dsh0416/busy) Create Status Badge based on iCalendar Subscriptions
 - [Fast SRT Subtitle](https://github.com/dsh0416/fast-srt-subtitle) Forked from [wiwikuan/fast-srt-subtitle](https://github.com/wiwikuan/fast-srt-subtitle). Subtitle Timeline Inputting Tool
 - [EUC-JP](https://github.com/dsh0416/euc-jp) EUC-JP and Shift_JIS Encoding and Decoding Library for Dart Language
 - [Rime Nihonchord](https://github.com/dsh0416/nihonchord) A Rime Recipe for Inputting Japanese (日本語) with Combo Input Method
