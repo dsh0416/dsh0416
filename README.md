@@ -2,6 +2,8 @@
 
 👋 Hi! This is Delton (Pronounciation: /'dɛlt.n̩/).
 
+![github stats](https://github-readme-stats.vercel.app/api?username=dsh0416&count_private=true&show_icons=true&theme=radical)
+
 Feel Free to Contact Me through E-mail or Twitter.
 
 - [Blog](https://coderemixer.com)
@@ -55,5 +57,3 @@ Languages Capabilities:
 - [Minecraft 3D Printer](https://github.com/dsh0416/minecraft-3d-printer) Yet Another Voxel Rasterization Experiment with Minecraft
 - [KSP Pilot](https://github.com/dsh0416/ksp-pilot) A Auto-pilot Aircraft Experiment with Kerbal Space Program
 - [Vibro](https://githubn.com/dsh0416/vibro) Experiments on Audio-driven Gamepad Vibration Engine
-
-![github stats](https://github-readme-stats.vercel.app/api?username=dsh0416&count_private=true&show_icons=true&theme=radical)
