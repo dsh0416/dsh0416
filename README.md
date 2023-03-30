@@ -54,5 +54,6 @@ Languages Capabilities:
 - [Fairwork](https://github.com/dsh0416/fairwork) Protect Servers from CC Flow Attack by PoW (Proof-of-Work)
 - [Minecraft 3D Printer](https://github.com/dsh0416/minecraft-3d-printer) Yet Another Voxel Rasterization Experiment with Minecraft
 - [KSP Pilot](https://github.com/dsh0416/ksp-pilot) A Auto-pilot Aircraft Experiment with Kerbal Space Program
+- [Vibro](https://githubn.com/dsh0416/vibro) Experiments on Audio-driven Gamepad Vibration Engine
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=dsh0416&count_private=true&show_icons=true&theme=radical)
