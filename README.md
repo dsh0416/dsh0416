@@ -8,8 +8,6 @@ Feel Free to Contact Me through E-mail or Twitter.
 - [Twitter](https://twitter.com/DeltonDing)
 - [E-mail](mailto:dsh0416@gmail.com)
 
-[![Busy Status](https://busy.moe/badges/1?style=for-the-badge)](https://github.com/dsh0416/busy)
-
 Languages Capabilities:
 
 | Name (in English) | Name (in Native) | Level |
@@ -36,6 +34,8 @@ Languages Capabilities:
 - [Rime Bopomofo](https://github.com/dsh0416/rime-bopomofo-symbols) A Rime Recipe for Inputting Bopomofo Symbols (注音符號) and Hong-im Hû-hō (方音符號) for Chinese and Hokkienese
 - [UUID64](https://github.com/heckpsi-lab/uuid64) Generate Secured and Unique ID in a shorter pattern in Ruby
 - [Petri DSL](https://github.com/dsh0416/petri-dsl) A Ruby DSL for Describing PetriNet
+- [PerfCat](https://github.com/dsh0416/perfcat) Yet Another Graphics Performance Monitor Tool
+- [SFC Wellness Bot](https://github.com/dsh0416/sfc-wellness-bot) A bot for Keio SFC Wellness Course Registration
 
 ### Archived Open Source Projects
 
@@ -51,20 +51,8 @@ Languages Capabilities:
 - [Homophone Jokes Generator](https://github.com/dsh0416/homophone-jokes-generator) Generate Homophone Jokes based on NLP techniques (Chinese)
 - [Petri Editor](https://github.com/dsh0416/petri-editor) A WYSIWYG PetriNet Editor
 - [My General](https://github.com/dsh0416/my-general) Recover MySQL data from General Purpose Query Log
+- [Fairwork](https://github.com/dsh0416/fairwork) Protect Servers from CC Flow Attack by PoW (Proof-of-Work)
+- [Minecraft 3D Printer](https://github.com/dsh0416/minecraft-3d-printer) Yet Another Voxel Rasterization Experiment with Minecraft
+- [KSP Pilot](https://github.com/dsh0416/ksp-pilot) A Auto-pilot Aircraft Experiment with Kerbal Space Program
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=dsh0416&count_private=true&show_icons=true&theme=radical)
-
-<!--
-**dsh0416/dsh0416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
