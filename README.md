@@ -2,7 +2,9 @@
 
 👋 Hi! This is Delton (Pronounciation: /'dɛlt.n̩/).
 
-![github stats](https://github-readme-stats.vercel.app/api?username=dsh0416&count_private=true&show_icons=true&theme=radical)
+<a href="https://github.com/dsh0416?tab=repositories">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=dsh0416&count_private=true&show_icons=true&theme=radical" width="45%" />
+</a>
 
 Feel Free to Contact Me through E-mail or Twitter.
 
@@ -10,7 +12,7 @@ Feel Free to Contact Me through E-mail or Twitter.
 - [Twitter](https://twitter.com/DeltonDing)
 - [E-mail](mailto:delton@hey.com)
 
-Languages Capabilities:
+### Languages
 
 | Name (in English) | Name (in Native) | Level |
 | ----------------- | ---------------- | ----- |
@@ -19,10 +21,9 @@ Languages Capabilities:
 | English | English | Advanced |
 | Japanese | 日本語 | Elementary (N2) |
 | Chinese (Hokkienese) | 閩南語 | Elementary |
+| Esperanto | Esperanto | Elementary |
 | Aynu | Ainu | Beginner |
-| Vietnamese | Tiếng Việt | Beginner |
 | French | Français | Beginner |
-| Russian | Ру́сский | Beginner |
 
 ### Working/Maintaining Open Source Projects
 
