@@ -1,26 +1,25 @@
 ### Introduction
 
-👋 Hi! This is Delton (Pronounciation: /'dɛlt.n̩/).
+- 👋 Hi! This is Delton (Pronounciation: /'dɛlt.n̩/).
+- 🌱 I am currently Chief Executive Officer at [yetanother.ai](https://yetanother.ai).
+- 💬 Feel Free to Contact Me through E-mail or X.
+  - [Blog](https://coderemixer.com)
+  - [X](https://x.com/DeltonDing)
+  - [E-mail](mailto:delton@hey.com)
 
 <a href="https://github.com/dsh0416?tab=repositories">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=dsh0416&count_private=true&show_icons=true&theme=radical" width="45%" />
 </a>
 
-Feel Free to Contact Me through E-mail or Twitter.
-
-- [Blog](https://coderemixer.com)
-- [Twitter](https://twitter.com/DeltonDing)
-- [E-mail](mailto:delton@hey.com)
-
 ### Languages
 
 | Name (in English) | Name (in Native) | Level |
 | ----------------- | ---------------- | ----- |
-| Chinese (Mandarin) | 漢語（現代標準漢語） | Native |
-| Chinese (Shanghainese, Wuu) | 吳語（上海話） | Native |
+| Chinese (Mandarin) | 汉语（现代标准汉语） | Native |
+| Chinese (Shanghainese, Wuu) | 吴语（上海话） | Native |
 | English | English | Advanced |
-| Japanese | 日本語 | Elementary (N2) |
-| Chinese (Hokkienese) | 閩南語 | Elementary |
+| Japanese | 日本語 | Elementary (JLPT N2) |
+| Chinese (Hokkienese, Taiwan) | 臺灣閩南語 | Elementary |
 | Esperanto | Esperanto | Elementary |
 | Aynu | Ainu | Beginner |
 | French | Français | Beginner |
