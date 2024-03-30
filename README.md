@@ -13,7 +13,7 @@
 
 ### Languages
 
-| Name (in English) | Name (in Native) | Level |
+| Language (in English) | Language (in Native) | Level |
 | ----------------- | ---------------- | ----- |
 | Chinese (Mandarin) | 汉语（现代标准汉语） | Native |
 | Chinese (Shanghainese, Wuu) | 吴语（上海话） | Native |
