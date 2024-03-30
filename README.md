@@ -1,15 +1,15 @@
 ### Introduction
 
+<a href="https://github.com/dsh0416?tab=repositories">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=dsh0416&count_private=true&show_icons=true&theme=radical" width="45%" />
+</a>
+
 - 👋 Hi! This is Delton (Pronounciation: /'dɛlt.n̩/).
 - 🌱 I am currently Chief Executive Officer at [yetanother.ai](https://yetanother.ai).
 - 💬 Feel Free to Contact Me through E-mail or X.
   - [Blog](https://coderemixer.com)
   - [X](https://x.com/DeltonDing)
   - [E-mail](mailto:delton@hey.com)
-
-<a href="https://github.com/dsh0416?tab=repositories">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=dsh0416&count_private=true&show_icons=true&theme=radical" width="45%" />
-</a>
 
 ### Languages
 
