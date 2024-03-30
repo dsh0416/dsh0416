@@ -8,7 +8,7 @@
 - 🌱 I am currently Chief Executive Officer at [yetanother.ai](https://yetanother.ai).
 - 💬 Feel free to contact me through [E-mail](mailto:delton@hey.com) or [X](https://x.com/DeltonDing).
   - 💻 I would be very glad to solve technical issues or project-related questions for you.
-  - 💎 For commercial coorpertaion, I can not guarantee that every e-mail might be replied.
+  - 💎 For commercial cooperation, I can not guarantee that every e-mail might be replied.
 - 📰 Check my [Blog](https://coderemixer.com) for extra explanation of my projects.
 
 ### Languages
