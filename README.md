@@ -13,16 +13,16 @@
 
 ### Languages
 
-| Language (in English) | Language (in Native) | Level |
-| ----------------- | ---------------- | ----- |
-| Chinese (Mandarin) | 汉语（现代标准汉语） | Native |
-| Chinese (Shanghainese, Wuu) | 吴语（上海话） | Native |
-| English | English | Advanced |
-| Japanese | 日本語 | Elementary (JLPT N2) |
-| Chinese (Hokkienese, Taiwan) | 臺灣閩南語 | Elementary |
-| Esperanto | Esperanto | Elementary |
-| Aynu | Ainu | Beginner |
-| French | Français | Beginner |
+| ISO-639-1 (ISO-639-3) | Language (in English)        | Language (in Native) | Level                |
+| --------------------- | ---------------------------- | -------------------- | -------------------- |
+| zh-hans-CN (cmn-zho)  | Chinese (Mandarin)           | 汉语（现代标准汉语） | Native               |
+| zh-hans-CN (wuu-zho)  | Chinese (Shanghainese, Wuu)  | 吴语（上海话）       | Native               |
+| en (eng)              | English                      | English              | Advanced             |
+| ja-JP (jpn)           | Japanese                     | 日本語               | Elementary (JLPT N2) |
+| zh-hant-TW (nan-zho)  | Chinese (Hokkienese, Taiwan) | 臺灣閩南語           | Elementary           |
+| eo (epo)              | Esperanto                    | Esperanto            | Elementary           |
+| (ain)                 | Ainu                         | Ainu                 | Beginner             |
+| fr-FR (fra)           | French                       | Français             | Beginner             |
 
 ### Working/Maintaining Open Source Projects
 
